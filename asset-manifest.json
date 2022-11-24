@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coinmarketcap/static/css/main.6eab7446.css",
+    "main.js": "/coinmarketcap/static/js/main.5bf56fac.js",
+    "index.html": "/coinmarketcap/index.html",
+    "main.6eab7446.css.map": "/coinmarketcap/static/css/main.6eab7446.css.map",
+    "main.5bf56fac.js.map": "/coinmarketcap/static/js/main.5bf56fac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eab7446.css",
+    "static/js/main.5bf56fac.js"
+  ]
+}
